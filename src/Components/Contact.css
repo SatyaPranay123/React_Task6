@@ -1,0 +1,38 @@
+/* Contact.css */
+.contact-container {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .contact-header {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-icons {
+    display: flex; /* Display icons in a row */
+    justify-content: center; /* Center icons horizontally */
+    align-items: center; /* Center icons vertically */
+  }
+  
+  .contact-link {
+    margin: 0 10px; /* Add space between icons */
+    text-decoration: none;
+    transition: transform 0.3s ease-in-out;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-link img {
+    width: 50px; /* Reduce the icon size */
+    height: 50px;
+  }
+  
+  .contact-link:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  }
+  

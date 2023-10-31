@@ -1,0 +1,30 @@
+/* Nav.css */
+.navbar {
+    background-color: #007bff; /* Background color for the navbar */
+  }
+  
+  .navbar-brand {
+    color: #fff; /* Text color for the brand name */
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: flex-end; /* Align links to the right */
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #333; /* Link color */
+    font-weight: bold;
+    margin: 0 15px; /* Adjust the spacing between links */
+    transition: color 0.3s; /* Smooth color transition on hover */
+    font-size: 25px;
+  }
+  
+  .nav-link:hover {
+    color: #007bff; /* Color change on hover */
+  }
+  

@@ -1,0 +1,62 @@
+/* Skills.css */
+.skills-container {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  .skills-header {
+    padding: 20px 0;
+  }
+  
+  /* Skills.css */
+.skills-image {
+    width: 100%; /* Set the width to 100% to take up the full width */
+    height: 400px;
+    max-width: 100%; /* Ensure it doesn't exceed its container's width */
+    display: block; /* Remove any extra spacing around the image */
+  }
+  
+  
+  .skills-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .skills-category {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #fff;
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 10px;
+  }
+  
+  .skills-category h2 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .skills-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    font-size: 1.1rem;
+    margin: 10px 0;
+    color: #666;
+  }
+  
+  .bg-warning {
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    color: #fff;
+  }
+  
+  .bg-success {
+    background-color: #5bc0de;
+    border-color: #46b8da;
+    color: #fff;
+  }
+  

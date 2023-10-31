@@ -1,0 +1,61 @@
+/* Project.css */
+
+/* General styles for the project section */
+.project-section {
+    text-align: center;
+    background-color: teal;
+    color: lavender;
+  }
+  
+  /* Project cards */
+  .project-card {
+    padding: 1.5rem;
+    margin: 2rem 0;
+    color: lavender;
+    background-color: teal;
+    overflow: auto;
+  }
+  
+  /* Project titles */
+  .project-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  /* Project images */
+  .project-image {
+    float: right;
+    height: 200px;
+    width: 300px;
+    margin-left: 2rem;
+  }
+  
+  /* Project description */
+  .project-description {
+    text-align: left;
+  }
+  
+  /* Project metadata (duration, website, etc.) */
+  .project-metadata {
+    text-align: left;
+    margin-top: 1rem;
+  }
+  
+  /* Technologies used */
+  .technologies-used {
+    text-align: left;
+    margin-top: 1rem;
+  }
+  
+  /* Future plans */
+  .future-plans {
+    text-align: left;
+    margin-top: 1rem;
+  }
+  
+  /* Additional styles for the Sentimental Analysis project */
+  .sentimental-analysis {
+    font-size: 18px;
+  }
+  
